@@ -7,7 +7,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "aa76f29e38da8f8875ed91d01df30c00
 "assets/AssetManifest.json": "ff246d0e60141d4ca1faa613a7cb5144",
 "assets/assets/BarcotechBG.jpg": "cfedcf189edf397914bd63ec50a5529e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "32fce58e2acb9c420eab0fe7b828b761",
+"assets/fonts/MaterialIcons-Regular.otf": "985bb06d70996ec51b0d509f8be6a0e4",
 "assets/NOTICES": "30388a400906ebc8ef4bd52e727fc98c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
@@ -24,9 +24,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "aa76f29e38da8f8875ed91d01df30c00
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "0dde168224ece859466602812eaab12b",
-"/": "0dde168224ece859466602812eaab12b",
-"main.dart.js": "0b9939931011523e3d287ef9b7941672",
+"index.html": "e35e99539bcfbf429f6c78629b23b9e9",
+"/": "e35e99539bcfbf429f6c78629b23b9e9",
+"main.dart.js": "8c9355929a6b9ae0664e71f44d9d3950",
 "manifest.json": "ad9061773b1103ab69acac2297d873c3",
 "version.json": "720d3650e4c01b7dc85e851433b9c58b"};
 // The application shell files that are downloaded before a service worker can
