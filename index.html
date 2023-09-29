@@ -34,7 +34,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "1002749557";
+    const serviceWorkerVersion = "2562892517";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -60,5 +60,18 @@
       });
     });
   </script>
+  <script>
+    function setMinWindowSize(minWidth, minHeight) {
+      window.addEventListener('resize', function () {
+        if (window.innerWidth < minWidth || window.innerHeight < minHeight) {
+          window.resizeTo(minWidth, minHeight);
+        }
+      });
+    }
+  
+    // Set your desired minimum width and height here
+    setMinWindowSize(600, 400);
+  </script>
+  
 </body>
 </html>
