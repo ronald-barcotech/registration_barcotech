@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "aa76f29e38da8f8875ed91d01df30c00",
-"assets/AssetManifest.json": "ff246d0e60141d4ca1faa613a7cb5144",
+const RESOURCES = {"assets/AssetManifest.bin": "d82b1102a9afc7bfe017a99cbdd79136",
+"assets/AssetManifest.json": "eb8314ac64ef581ffb97ee92f23dcfde",
 "assets/assets/BarcotechBG.jpg": "cfedcf189edf397914bd63ec50a5529e",
+"assets/assets/Haloween-GIF.gif": "38c1869d2c0332fee0ee1cfe71be7f71",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "985bb06d70996ec51b0d509f8be6a0e4",
 "assets/NOTICES": "30388a400906ebc8ef4bd52e727fc98c",
@@ -24,9 +25,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "aa76f29e38da8f8875ed91d01df30c00
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e4a16c55cfbad9071e744d2c9f23eb34",
-"/": "e4a16c55cfbad9071e744d2c9f23eb34",
-"main.dart.js": "ec0054d8d62289c8958430d412fe162c",
+"index.html": "5a470f1af097df4b86b1ddeac57d6ca3",
+"/": "5a470f1af097df4b86b1ddeac57d6ca3",
+"main.dart.js": "d9b4e1e51dead2a36ca25dea0c462ebb",
 "manifest.json": "ad9061773b1103ab69acac2297d873c3",
 "version.json": "720d3650e4c01b7dc85e851433b9c58b"};
 // The application shell files that are downloaded before a service worker can
