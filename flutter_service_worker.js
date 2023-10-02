@@ -3,13 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "f35e5c1042f8e848998d4d5a82a24ec5",
-"assets/AssetManifest.json": "70db8971a8755c1cd3a0db115b4cdc5c",
+const RESOURCES = {"assets/AssetManifest.bin": "5312a98f62cdbc3cb6fa2b782e4cf24a",
+"assets/AssetManifest.json": "2819f088d7b9072c4d88fd09b3d68478",
 "assets/assets/Barcotech%252016x16.ico": "a2e27dd726308a91154c90469dd0d0fd",
 "assets/assets/Barcotech%252032x32.ico": "01d0fe147d7a109c9b9ca82be9f969ec",
 "assets/assets/BarcotechBG.jpg": "cfedcf189edf397914bd63ec50a5529e",
 "assets/assets/favicon.png": "39447011c80ee3d1d5de4e39571e5556",
 "assets/assets/Haloween-GIF.gif": "38c1869d2c0332fee0ee1cfe71be7f71",
+"assets/assets/Haloween-Portrait.gif": "45a20af7074b03e8c06dead130d40838",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "985bb06d70996ec51b0d509f8be6a0e4",
 "assets/NOTICES": "30388a400906ebc8ef4bd52e727fc98c",
@@ -28,9 +29,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "f35e5c1042f8e848998d4d5a82a24ec5
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "2c1f403d94b936d1aff1bae7acedc31f",
-"/": "2c1f403d94b936d1aff1bae7acedc31f",
-"main.dart.js": "f00e0e286ca1421998d8b9fa71776b95",
+"index.html": "6c1506e58b3522207db9b614b3f1e44d",
+"/": "6c1506e58b3522207db9b614b3f1e44d",
+"main.dart.js": "48509a449ca537839641238bf6b9f59d",
 "manifest.json": "ad9061773b1103ab69acac2297d873c3",
 "version.json": "720d3650e4c01b7dc85e851433b9c58b"};
 // The application shell files that are downloaded before a service worker can
